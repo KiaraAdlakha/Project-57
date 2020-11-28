@@ -1,0 +1,26 @@
+body
+{
+    padding:50px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    font-size: 70px;
+}
+#p1
+{
+    border: solid;
+    border-color: cyan;
+    color: fuchsia;
+}
+#p4
+{
+    border: solid;
+    border-color: aquamarine;
+    color:coral;
+    font-size:80px;
+}
+img
+{
+  height: 400px;
+    width: 400px;
+}
